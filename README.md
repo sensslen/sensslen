@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Sensslen
 
-<!--
-**sensslen/sensslen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-time C# developer** with a strong foundation in **electrical engineering** and hands-on experience in **embedded systems development** using C and C++. My background gives me a unique perspective on both high- and low-level software challenges — from device drivers to modern .NET applications.
 
-Here are some ideas to get you started:
+I'm passionate about:
+- ✨ Learning new technologies
+- 🧠 Solving complex problems with simple, scalable code
+- 🛠 Choosing the *right tool for the job*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Background
+
+- 💻 **Languages:** C#, C, C++, Typescript
+- ⚙️ **Embedded Systems:** Bare-metal programming, Arduino, Raspberry Pi
+- 🖥 **App Development:** .NET Core, WPF
+- ☁️ **Tooling & DevOps:** Git, CI/CD pipelines, NuGet, Docker (light usage)
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 [nuget-license](https://github.com/sensslen/nuget-license)
+A command-line utility that helps developers **automatically detect and list license information** for NuGet packages. This tool is useful for compliance, audits, and ensuring responsible dependency management.
+
+> **Tech Stack:** .NET CLI, XML parsing, GitHub Actions
+
+---
+
+### 📡 [LibLanc](https://github.com/sensslen/LibLanc)
+A robust library implementing communication protocols for **Lanc** (used in video and camera control systems). Written in C, this project reflects my embedded systems background and deep understanding of protocol design.
+
+> **Use Case:** Serial-based control for video equipment and DSLRs
+
+---
+
+## 📫 Connect With Me
+
+I'm always open to collaboration, learning opportunities, or a good tech chat.
+
+- 🐙 [GitHub](https://github.com/sensslen)
+- 💼 [LinkedIn](#) *(optional – replace with link if available)*
+- ✉️ Reach out via GitHub Issues or Discussions on any of my projects!
+
+---
+
+> _“Always learning, always building — the right tools, for the right job.”_
+
