@@ -39,8 +39,6 @@ A robust library implementing communication protocols for **Lanc** (used in vide
 I'm always open to collaboration, learning opportunities, or a good tech chat.
 
 - 🐙 [GitHub](https://github.com/sensslen)
-- 💼 [LinkedIn](#) *(optional – replace with link if available)*
-- ✉️ Reach out via GitHub Issues or Discussions on any of my projects!
 
 ---
 
