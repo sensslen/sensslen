@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sensslen
+# 👋 Hi, I'm Simon
 
 I'm a **full-time C# developer** with a strong foundation in **electrical engineering** and hands-on experience in **embedded systems development** using C and C++. My background gives me a unique perspective on both high- and low-level software challenges — from device drivers to modern .NET applications.
 
