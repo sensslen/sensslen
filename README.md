@@ -13,7 +13,7 @@ I'm passionate about:
 
 - 💻 **Languages:** C#, C, C++, Typescript
 - ⚙️ **Embedded Systems:** Bare-metal programming, Arduino, Raspberry Pi
-- 🖥 **App Development:** .NET Core, WPF
+- 🖥 **App Development:** .NET, WPF
 - ☁️ **Tooling & DevOps:** Git, CI/CD pipelines, NuGet, Docker (light usage)
 
 ---
