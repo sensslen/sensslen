@@ -28,13 +28,5 @@ A robust library implementing communication protocols for **Lanc** (used in vide
 
 ---
 
-## 📫 Connect With Me
-
-I'm always open to collaboration, learning opportunities, or a good tech chat.
-
-- 🐙 [GitHub](https://github.com/sensslen)
-
----
-
 > _“Always learning, always building — the right tools, for the right job.”_
 
