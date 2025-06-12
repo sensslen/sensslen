@@ -23,14 +23,8 @@ I'm passionate about:
 ### 📦 [nuget-license](https://github.com/sensslen/nuget-license)
 A command-line utility that helps developers **automatically detect and list license information** for NuGet packages. This tool is useful for compliance, audits, and ensuring responsible dependency management.
 
-> **Tech Stack:** .NET CLI, XML parsing, GitHub Actions
-
----
-
 ### 📡 [LibLanc](https://github.com/sensslen/LibLanc)
-A robust library implementing communication protocols for **Lanc** (used in video and camera control systems). Written in C, this project reflects my embedded systems background and deep understanding of protocol design.
-
-> **Use Case:** Serial-based control for video equipment and DSLRs
+A robust library implementing communication protocols for **Lanc** (used in video and camera control systems). Written in C++, this project reflects my embedded systems background and deep understanding of protocol design.
 
 ---
 
