@@ -30,4 +30,4 @@ A robust library implementing communication protocols for **Lanc** (used in vide
 
 > _“Always learning, always building — the right tools, for the right job.”_
 
-![sensslen's Stats](https://github-readme-stats.vercel.app/api?username=sensslen&theme=default&show_icons=true&hide_border=true&count_private=true)
+![sensslen's Stats](https://github-readme-stats.vercel.app/api?username=sensslen&count_private=true)
