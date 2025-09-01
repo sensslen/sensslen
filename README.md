@@ -6,21 +6,11 @@ Welcome to my GitHub profile! I’m a passionate software developer and problem 
 
 ---
 
-## 🔥 What Drives Me
-
-- ✨ Continuously learning new technologies
-- 🧠 Turning complex problems into simple, maintainable solutions
-- 🛠 Selecting the *right tool for the job*—every time
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** C#, C, C++, TypeScript
 - **Embedded Systems:** Bare-metal programming, Arduino, Raspberry Pi
 - **App Development:** .NET (Core & Framework), WPF
-- **DevOps & Tooling:** Git, CI/CD pipelines, NuGet, Docker (light usage)
-- **Other:** Electrical engineering, protocol design, cross-platform development
 
 ---
 
@@ -46,8 +36,5 @@ Welcome to my GitHub profile! I’m a passionate software developer and problem 
 
 ## 💬 Contact & Links
 
-- 📨 Reach me via [GitHub Issues](https://github.com/sensslen/sensslen/issues) or [discussions](https://github.com/sensslen/sensslen/discussions)
+- 📨 Reach me via [GitHub Issues](https://github.com/sensslen/sensslen/issues)
 - 🌐 Check out more projects at [github.com/sensslen](https://github.com/sensslen)
-
-
-> _“Always learning, always building — the right tools, for the right job.”_
