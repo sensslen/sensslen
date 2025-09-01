@@ -4,15 +4,11 @@
 
 Welcome to my GitHub profile! I’m a passionate software developer and problem solver with a unique background combining software engineering and hands-on electrical engineering. My expertise bridges hardware and software, allowing me to create robust, scalable solutions from bare-metal microcontrollers to modern .NET applications.
 
----
-
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** C#, C, C++, TypeScript
 - **Embedded Systems:** Bare-metal programming, Arduino, Raspberry Pi
 - **App Development:** .NET (Core & Framework), WPF
-
----
 
 ## 🚀 Featured Projects
 
@@ -25,8 +21,6 @@ Welcome to my GitHub profile! I’m a passionate software developer and problem 
 *Robust C++ library for the Lanc communication protocol (used in video and camera control systems).*
 - **Purpose:** Enables hardware-level camera control and automation.
 - **Tech:** C++, embedded systems, protocol implementation
-
----
 
 ## 📈 GitHub Stats
 
