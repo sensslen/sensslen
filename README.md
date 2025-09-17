@@ -22,10 +22,6 @@ Welcome to my GitHub profile! I’m a passionate software developer and problem 
 - **Purpose:** Enables hardware-level camera control and automation.
 - **Tech:** C++, embedded systems, protocol implementation
 
-## 📈 GitHub Stats
-
-![sensslen's Stats](https://github-readme-stats.vercel.app/api?username=sensslen&count_private=true&theme=transparent&hide_border=true)
-
 ## 💬 Contact & Links
 
 - 📨 Reach me via [GitHub Issues](https://github.com/sensslen/sensslen/issues)
